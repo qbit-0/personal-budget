@@ -1,0 +1,23 @@
+{
+    "name": "personal-budget",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/qbit-0/personal-budget.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/qbit-0/personal-budget/issues"
+    },
+    "homepage": "https://github.com/qbit-0/personal-budget#readme",
+    "dependencies": {
+        "express": "^4.18.1"
+    }
+}
